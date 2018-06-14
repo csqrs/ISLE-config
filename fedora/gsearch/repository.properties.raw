@@ -4,7 +4,7 @@ fgsrepository.repositoryName	= FgsRepos
 
 fgsrepository.fedoraSoap	   	= http://localhost:8080/fedora/services
 fgsrepository.fedoraUser		= fedoraAdmin
-fgsrepository.fedoraPass		= SlosjavCiec]
+fgsrepository.fedoraPass		= FDADPW
 # add the fedoraAdmin password above and remove comment
 fgsrepository.fedoraObjectDir	= /usr/local/fedora/data/objectStore
 fgsrepository.fedoraVersion		= 3.8.1

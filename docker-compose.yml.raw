@@ -23,7 +23,7 @@ services:
     container_name: isle-mysql-dhsi
     hostname: mysql
     environment:
-      - MYSQL_ROOT_PASSWORD=fiatHyocKalb
+      - MYSQL_ROOT_PASSWORD=MSQLPW
     networks:
       - isle-internal
     ports:

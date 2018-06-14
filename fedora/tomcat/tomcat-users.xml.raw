@@ -42,9 +42,9 @@
                 <user username="role1" password="<must-be-changed>" roles="role1"/>
               -->
 <!-- user manager can access only manager section -->
-    <user username="manager" password="kudCikbobkut" roles="manager-gui" />  <!--enduser please add passwords / users and remove this comment -->
+    <user username="manager" password="TCMNPW" roles="manager-gui" />  <!--enduser please add passwords / users and remove this comment -->
 
 <!-- user admin can access manager and admin section both -->
-    <user username="admin" password="WewagyoypCoo" roles="manager-gui,admin-gui" /> <!--enduser please add passwords / users and remove this comment -->
+    <user username="admin" password="TCADPW" roles="manager-gui,admin-gui" /> <!--enduser please add passwords / users and remove this comment -->
 
 </tomcat-users>

@@ -1,6 +1,6 @@
 <?xml version='1.0' ?>
   <users>
-    <user name="fedoraAdmin" password="SlosjavCiec]">
+    <user name="fedoraAdmin" password="FDADPW">
       <attribute name="fedoraRole">
         <value>administrator</value>
       </attribute>
@@ -11,7 +11,7 @@
         <value>fedoraInternalCall-2</value>
       </attribute>
     </user>
-    <user name="fgsAdmin" password="CyuddEunCym,">
+    <user name="fgsAdmin" password="FGSADPW">
       <attribute name="fedoraRole">
       <value>administrator</value>
     </attribute>

@@ -12,7 +12,7 @@
 #fgsconfigObjects.fedoraSoap	   	= https://localhost:8080/fedora
 fgsconfigObjects.fedoraSoap	   		= http://localhost:8080/fedora
 fgsconfigObjects.fedoraUser			= fedoraAdmin
-fgsconfigObjects.fedoraPass			= SlosjavCiec]
+fgsconfigObjects.fedoraPass			= FDADPW
 # add the fedoraAdmin password above and remove comment
 
 fgsconfigObjects.trustStorePath		= TRUSTSTOREPATH

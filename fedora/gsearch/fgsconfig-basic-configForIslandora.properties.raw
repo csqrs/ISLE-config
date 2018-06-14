@@ -23,7 +23,7 @@ gsearchUser=fgsAdmin
 
 # gsearchPass is used for SOAP deployment.
 #>>>>>>>>>>
-gsearchPass=CyuddEunCym,
+gsearchPass=FGSADPW
 # add the fgsAdmin password above and remove comment
 #<<<<<<<<<<
 
@@ -64,7 +64,7 @@ namesOfIndexes=FgsIndex
 
   # fedoraPass is the password to access this repository.
 #>>>>>>>>>>
-  fedoraPass=SlosjavCiec]
+  fedoraPass=FDADPW
   # add the fedoraAdmin password above and remove comment
 #<<<<<<<<<<
 

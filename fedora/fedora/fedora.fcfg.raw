@@ -595,7 +595,7 @@ https://wiki.duraspace.org/display/FEDORA36/Spring+Security
     <param name="jdbcDriverClass" value="com.mysql.jdbc.Driver">
       <comment>The JDBC driver class name.</comment>
     </param>
-    <param name="dbPassword" value="WewagyoypCoo"><!--EDIT THIS LINE TO CHANGE FEDORA3 DB USER PASSWORD-->
+    <param name="dbPassword" value="FDDBPW"><!--EDIT THIS LINE TO CHANGE FEDORA3 DB USER PASSWORD-->
       <comment>The database password.</comment>
     </param>
     <param name="maxActive" value="100">

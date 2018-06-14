@@ -4,7 +4,7 @@
 #fedoragsearch.soapBase	    		= http://localhost:8080/fedoragsearch/services
 fedoragsearch.soapBase	    		= http://localhost:8080/fedoragsearch/services
 fedoragsearch.soapUser				= fgsAdmin
-fedoragsearch.soapPass				= CyuddEunCym,
+fedoragsearch.soapPass				= FGSADPW
 # add the fgsAdmin password above and remove comment
 
 fedoragsearch.deployFile 			= /usr/local/tomcat/webapps/fedoragsearch/WEB-INF/classes/fgsconfigFinal/deploy.wsdd
