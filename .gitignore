@@ -1,0 +1,15 @@
+isle-dhsi-config
+docker-compose.yml
+apache/install_new_site.sh
+apache/settings.php
+fedora/fedora/fedora.fcfg
+fedora/fedora/fedora-users.xml
+fedora/fedora/filter-drupal.xml
+fedora/gsearch/fedoragsearch.properties
+fedora/gsearch/fgsconfig-basic-configForIslandora.properties
+fedora/gsearch/fgsconfigObjects.properties
+fedora/gsearch/repository.properties
+fedora/tomcat/tomcat-users.xml
+mysql/initscripts/dhsi_db.sql
+mysql/initscripts/fedora3.sql
+solr/tomcat/tomcat-users.xml
